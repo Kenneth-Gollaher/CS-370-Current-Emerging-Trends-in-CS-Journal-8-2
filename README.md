@@ -12,4 +12,4 @@
 ##### As a computer scientist, I use a few strategies to solve and find a solution. Using the resources around me, I can effectively and efficiently find a solution to the problem I face. Having a logical and technical mindset, I can look at a problem a little differently and possibly can help me find that solution. I however am a team player and remain open minded to others opinions and ideas. 
 
 ### - What are my ethical responsibilities to the end user and the organization?
-##### 
+##### There are many ethical responsibilities for computer scientists. One of the more important ethical responsibilities that a software engineer might face is bias and trying not to implement bias into their work. For developers that use machine learning, there may be bias that is incorporated in the code and can cause ethical issues for those using the software. Its important to keep any bias out, especially if it can cause harm or issues down the road. 
